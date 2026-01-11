@@ -82,7 +82,7 @@ Start your own appstore: [github.com/getumbrel/umbrel-community-app-store](https
 - [Decred](https://github.com/decred/umbrel-app-store) ![stars](https://img.shields.io/github/stars/decred/umbrel-app-store.svg?style=social)
   - dcrdex: Decentralized exchange built by the Decred Project
 
-  - [Olly's Umbrel App Store](https://github.com/saltedlolly/umbrel-app-store) ![stars](https://img.shields.io/github/stars/saltedlolly/umbrel-app-store.svg?style=social)
+- [Olly's Umbrel App Store](https://github.com/saltedlolly/umbrel-app-store) ![stars](https://img.shields.io/github/stars/saltedlolly/umbrel-app-store.svg?style=social)
   - audiobookshelf-nas-edition: Audiobookshelf with added support for network shares - access media stored on elsewhee on your local network. 
   - cloudflare-ddns: A dynamic DNS client for domains hosted on Cloudflare.
 
